@@ -1,12 +1,17 @@
 {
   "name": "koa-bitbucket-webhook-handler",
   "version": "1.0.1",
+  "url": "https://github.com/OnPure/koa-bitbucket-webhook-handler.git",
   "email": "inception00@163.com",
   "description": "用于对Bitbucket Cloud Event的返回响应",
   "author": "OnPure",
   "private": false,
   "main": "app.js",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OnPure/koa-bitbucket-webhook-handler"
+  },
   "keywords": [
     "koa bitbucket webhook",
     "webohook cloud",
